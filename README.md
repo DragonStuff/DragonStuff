@@ -15,5 +15,5 @@
 ### My goals for 2020:
 
 - [ ] Launch https://five.fyi :rocket:
-- [ ] Get 24 sponsors :heart:
+- [ ] Get 24 GitHub sponsors :heart:
 - [ ] Write weekly on https://ctrl.tokyo
