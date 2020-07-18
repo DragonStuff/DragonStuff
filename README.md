@@ -16,4 +16,4 @@
 
 - [ ] Launch https://five.fyi :rocket:
 - [ ] Get 24 GitHub sponsors :heart:
-- [ ] Write weekly on https://ctrl.tokyo
+- [ ] Write weekly on https://ctrl.tokyo :pen:
