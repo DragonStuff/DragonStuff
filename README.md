@@ -3,6 +3,7 @@
 
 
 - 🔭 I’m currently working on: https://five.fyi, https://chotto.cloud, and https://log.band
+- :pen: You can read my thoughts on: https://ctrl.tokyo 
 - 🌱 I’m currently learning Elixir, Kubernetes, and much more!
 - 👯 I’m looking to collaborate on Kubernetes-oriented projects.
 - 💬 Ask me about coffee, writing or, you guessed it, Kubernetes.
