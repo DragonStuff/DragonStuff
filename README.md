@@ -17,3 +17,6 @@
 - [ ] Launch https://five.fyi :rocket:
 - [ ] Get 24 GitHub sponsors :heart:
 - [ ] Write weekly on https://ctrl.tokyo :pen:
+
+
+![From Tokyo, with every bit of my heart.](https://raw.githubusercontent.com/DragonStuff/DragonStuff/master/background.jpg)
