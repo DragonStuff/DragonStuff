@@ -20,6 +20,6 @@
 
 ### Want to help me achieve my goals, and get early access to my projects?
 
-![Sponsor badge.](https://img.shields.io/static/v1?label=Sponsor%20on%20GitHub&message=%E2%9D%A4&logo=GitHub&link=https://github.com/sponsors/DragonStuff)
+[![Sponsor badge.](https://img.shields.io/static/v1?label=Sponsor%20on%20GitHub&message=%E2%9D%A4&logo=GitHub&link=https://github.com/sponsors/DragonStuff)](https://github.com/sponsors/DragonStuff)
 
 ![From Tokyo, with every bit of my heart.](https://raw.githubusercontent.com/DragonStuff/DragonStuff/master/background.jpg)
