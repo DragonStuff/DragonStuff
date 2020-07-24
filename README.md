@@ -1,6 +1,10 @@
 ### Hi there 👋
 
+![Person on dreaming cloud.](https://raw.githubusercontent.com/DragonStuff/DragonStuff/master/undraw_dreamer_gxxi.png)
 
+I’m Alexander, a infrastructure engineer working in Tokyo. I build tools that help turn data into actions, and platforms that help implement DevOps practices across organisations. Thank you for taking a look at my GitHub Sponsors page.
+
+### Who am I?
 
 - 🔭 I’m currently working on: https://five.fyi, https://chotto.cloud, and https://log.band
 - :pen: You can read my thoughts on: https://ctrl.tokyo 
