@@ -2,7 +2,7 @@
 
 ![Person on dreaming cloud.](https://raw.githubusercontent.com/DragonStuff/DragonStuff/master/undraw_dreamer_gxxi.png)
 
-I’m Alexander, a infrastructure engineer working in Tokyo. I build tools that help turn data into actions, and platforms that help implement DevOps practices across organisations.
+I’m Alexander, an SRE and cloud infrastructure engineer working in Tokyo. I build tools that help turn data into actions, and platforms that help implement DevOps practices across organisations.
 
 ### Who am I?
 
